@@ -48,3 +48,5 @@ puts 1.7 ** 2
 
 # Exercise 7
 # Used closing parenthesis instead of closing bracket
+
+# testing git
